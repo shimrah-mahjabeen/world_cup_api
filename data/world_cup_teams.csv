@@ -1,0 +1,213 @@
+team,team_code,association
+Brazil,BRA,CONMEBOL
+Belgium,BEL,UEFA
+Argentina,ARG,CONMEBOL
+France,FRA,UEFA
+England,ENG,UEFA
+Italy,ITA,UEFA
+Spain,ESP,UEFA
+Netherlands,NED,UEFA
+Portugal,POR,UEFA
+Denmark,DEN,UEFA
+Germany,GER,UEFA
+Croatia,CRO,UEFA
+Mexico,MEX,CONCACAF
+Uruguay,URU,CONMEBOL
+Switzerland,SUI,UEFA
+United States,USA,CONCACAF
+Colombia,COL,CONMEBOL
+Senegal,SEN,CAF
+Wales,WAL,UEFA
+IR Iran,IRN,AFC
+Serbia,SRB,UEFA
+Morocco,MAR,CAF
+Peru,PER,CONMEBOL
+Japan,JPN,AFC
+Sweden,SWE,UEFA
+Poland,POL,UEFA
+Ukraine,UKR,UEFA
+Korea Republic,KOR,AFC
+Chile,CHI,CONMEBOL
+Tunisia,TUN,CAF
+Costa Rica,CRC,CONCACAF
+Nigeria,NGA,CAF
+Russia,RUS,UEFA
+Austria,AUT,UEFA
+Czech Republic,CZE,UEFA
+Hungary,HUN,UEFA
+Algeria,ALG,CAF
+Australia,AUS,AFC
+Egypt,EGY,CAF
+Scotland,SCO,UEFA
+Canada,CAN,CONCACAF
+Norway,NOR,UEFA
+Cameroon,CMR,CAF
+Ecuador,ECU,CONMEBOL
+Türkiye,TUR,UEFA
+Mali,MLI,CAF
+Paraguay,PAR,CONMEBOL
+Côte d'Ivoire,CIV,CAF
+Republic of Ireland,IRL,UEFA
+Qatar,QAT,AFC
+Saudi Arabia,KSA,AFC
+Greece,GRE,UEFA
+Romania,ROU,UEFA
+Burkina Faso,BFA,CAF
+Slovakia,SVK,UEFA
+Finland,FIN,UEFA
+Venezuela,VEN,CONMEBOL
+Bosnia and Herzegovina,BIH,UEFA
+Northern Ireland,NIR,UEFA
+Panama,PAN,CONCACAF
+Ghana,GHA,CAF
+Iceland,ISL,UEFA
+Slovenia,SVN,UEFA
+Jamaica,JAM,CONCACAF
+North Macedonia,MKD,UEFA
+Albania,ALB,UEFA
+South Africa,RSA,CAF
+Iraq,IRQ,AFC
+Montenegro,MNE,UEFA
+United Arab Emirates,UAE,AFC
+Cabo Verde,CPV,CAF
+Bulgaria,BUL,UEFA
+Congo DR,COD,CAF
+El Salvador,SLV,CONCACAF
+Oman,OMA,AFC
+Israel,ISR,UEFA
+Uzbekistan,UZB,AFC
+Georgia,GEO,UEFA
+China PR,CHN,AFC
+Honduras,HON,CONCACAF
+Gabon,GAB,CAF
+Bolivia,BOL,CONMEBOL
+Guinea,GUI,CAF
+Jordan,JOR,AFC
+Bahrain,BHR,AFC
+Curaçao,CUW,CONCACAF
+Haiti,HAI,CONCACAF
+Zambia,ZAM,CAF
+Uganda,UGA,CAF
+Syria,SYR,AFC
+Benin,BEN,CAF
+Luxembourg,LUX,UEFA
+Armenia,ARM,UEFA
+Palestine,PLE,AFC
+Kyrgyz Republic,KGZ,AFC
+Vietnam,VIE,AFC
+Belarus,BLR,UEFA
+Equatorial Guinea,EQG,CAF
+Lebanon,LBN,AFC
+Congo,CGO,CAF
+Kenya,KEN,CAF
+Madagascar,MAD,CAF
+Mauritania,MTN,CAF
+Trinidad and Tobago,TRI,CONCACAF
+New Zealand,NZL,OFC
+India,IND,AFC
+Kosovo,KOS,UEFA
+Tajikistan,TJK,AFC
+Estonia,EST,UEFA
+Cyprus,CYP,UEFA
+Thailand,THA,AFC
+Korea DPR,PRK,AFC
+Kazakhstan,KAZ,UEFA
+Mozambique,MOZ,CAF
+Namibia,NAM,CAF
+Guinea-Bissau,GNB,CAF
+Sierra Leone,SLE,CAF
+Guatemala,GUA,CONCACAF
+Angola,ANG,CAF
+Libya,LBY,CAF
+Niger,NIG,CAF
+Faroe Islands,FRO,UEFA
+Azerbaijan,AZE,UEFA
+Malawi,MWI,CAF
+Zimbabwe,ZIM,CAF
+The Gambia,GAM,CAF
+Togo,TOG,CAF
+Sudan,SDN,CAF
+Comoros,COM,CAF
+Tanzania,TAN,CAF
+Antigua and Barbuda,ATG,CONCACAF
+Central African Republic,CTA,CAF
+Philippines,PHI,AFC
+Latvia,LVA,UEFA
+Turkmenistan,TKM,AFC
+Solomon Islands,SOL,OFC
+Rwanda,RWA,CAF
+Ethiopia,ETH,CAF
+Suriname,SUR,CONCACAF
+St Kitts and Nevis,SKN,CONCACAF
+Burundi,BDI,CAF
+Nicaragua,NCA,CONCACAF
+Eswatini,SWZ,CAF
+Lithuania,LTU,UEFA
+Hong Kong,HKG,AFC
+Malaysia,MAS,AFC
+Lesotho,LES,CAF
+Botswana,BOT,CAF
+Kuwait,KUW,AFC
+Liberia,LBR,CAF
+Andorra,AND,UEFA
+Indonesia,IDN,AFC
+Dominican Republic,DOM,CONCACAF
+Maldives,MDV,AFC
+Yemen,YEM,AFC
+Afghanistan,AFG,AFC
+Chinese Taipei,TPE,AFC
+Myanmar,MYA,AFC
+Papua New Guinea,PNG,OFC
+Singapore,SGP,AFC
+New Caledonia,NCL,OFC
+Tahiti,TAH,OFC
+Fiji,FIJ,OFC
+Vanuatu,VAN,OFC
+South Sudan,SSD,CAF
+Barbados,BRB,CONCACAF
+Cuba,CUB,CONCACAF
+Malta,MLT,UEFA
+Bermuda,BER,CONCACAF
+Puerto Rico,PUR,CONCACAF
+Guyana,GUY,CONCACAF
+St Lucia,LCA,CONCACAF
+Grenada,GRN,CONCACAF
+Moldova,MDA,UEFA
+Nepal,NEP,AFC
+Belize,BLZ,CONCACAF
+Cambodia,CAM,AFC
+St Vincent and the Grenadines,VIN,CONCACAF
+Montserrat,MSR,CONCACAF
+Mauritius,MRI,CAF
+Chad,CHA,CAF
+Macau,MAC,AFC
+Mongolia,MNG,AFC
+Dominica,DMA,CONCACAF
+Bhutan,BHU,AFC
+São Tomé and Príncipe,STP,CAF
+Laos,LAO,AFC
+American Samoa,ASA,OFC
+Cook Islands,COK,OFC
+Brunei Darussalam,BRU,AFC
+Samoa,SAM,OFC
+Bangladesh,BAN,AFC
+Djibouti,DJI,CAF
+Pakistan,PAK,AFC
+Cayman Islands,CAY,CONCACAF
+Liechtenstein,LIE,UEFA
+Tonga,TGA,OFC
+Timor-Leste,TLS,AFC
+Seychelles,SEY,CAF
+Eritrea,ERI,CAF
+Aruba,ARU,CONCACAF
+Bahamas,BAH,CONCACAF
+Somalia,SOM,CAF
+Gibraltar,GIB,UEFA
+Guam,GUM,AFC
+Turks and Caicos Islands,TCA,CONCACAF
+Sri Lanka,SRI,AFC
+US Virgin Islands,VIR,CONCACAF
+British Virgin Islands,VGB,CONCACAF
+Anguilla,AIA,CONCACAF
+Yugoslavia,YUG,UEFA
+San Marino,SMR,UEFA

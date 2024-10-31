@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2024_10_30_135059) do
+ActiveRecord::Schema[7.0].define(version: 2024_10_31_141506) do
   create_table "countries", force: :cascade do |t|
     t.string "team", null: false
     t.string "team_code", limit: 3, null: false
@@ -20,8 +20,6 @@ ActiveRecord::Schema[7.0].define(version: 2024_10_30_135059) do
   end
 
   create_table "matches", force: :cascade do |t|
-    t.string "home_country", limit: 3, null: false
-    t.string "away_country", limit: 3, null: false
     t.integer "home_score", default: 0, null: false
     t.integer "home_penalty", default: 0
     t.integer "away_score", default: 0, null: false
@@ -30,7 +28,7 @@ ActiveRecord::Schema[7.0].define(version: 2024_10_30_135059) do
     t.string "venue", null: false
     t.string "round", null: false
     t.date "date", null: false
-    t.string "hosts", limit: 3, null: false
+    t.string "hosts", null: false
     t.integer "year", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
