@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 require 'csv'
 
 namespace :import do
-  desc "Import matches from a CSV file"
+  desc 'Import matches from a CSV file'
   task matches: :environment do
-    file_path = Rails.root.join("/Users/dev/world_cup_api/data/world_cup_matches.csv")
+    file_path = Rails.root.join('/Users/dev/world_cup_api/data/world_cup_matches.csv')
 
     CSV.foreach(file_path, headers: true) do |row|
       match_attributes = {
@@ -24,6 +26,6 @@ namespace :import do
       Match.create!(match_attributes)
     end
 
-    puts "Matches imported successfully!"
+    puts 'Matches imported successfully!'
   end
 end

@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 require 'csv'
 
 namespace :import do
-  desc "Import countries from a CSV file"
+  desc 'Import countries from a CSV file'
   task countries: :environment do
-    file_path = Rails.root.join("/Users/dev/world_cup_api/data/world_cup_teams.csv")
+    file_path = Rails.root.join('/Users/dev/world_cup_api/data/world_cup_teams.csv')
 
     CSV.foreach(file_path, headers: true) do |row|
       country_attributes = {
@@ -15,6 +17,6 @@ namespace :import do
       Country.create!(country_attributes)
     end
 
-    puts "Countries imported successfully!"
+    puts 'Countries imported successfully!'
   end
 end
