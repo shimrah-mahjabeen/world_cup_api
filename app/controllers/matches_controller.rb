@@ -3,8 +3,6 @@
 class MatchesController < ApplicationController
   before_action :set_match, only: %i[show update]
 
-  rescue_from ActiveRecord::RecordNotFound, with: :render_not_found
-
   def index
     matches = Match.all.includes(:home_country, :away_country)
 
@@ -56,10 +54,6 @@ class MatchesController < ApplicationController
 
   def set_match
     @match = Match.find(params[:id])
-  end
-
-  def render_not_found
-    render json: { error: "Match not found with ID #{params[:id]}" }, status: :not_found
   end
 
   def format_match(match)

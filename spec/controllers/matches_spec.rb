@@ -59,7 +59,7 @@ RSpec.describe MatchesController, type: :controller do
       it 'returns an error message with status 404' do
         get :show, params: { id: -1 }
         expect(response).to have_http_status(:not_found)
-        expect(JSON.parse(response.body)['error']).to eq('Match not found with ID -1')
+        expect(JSON.parse(response.body)['error']).to eq('Resource not found with ID -1')
       end
     end
   end
@@ -134,7 +134,7 @@ RSpec.describe MatchesController, type: :controller do
         put :update, params: { id: -1, match: { venue: 'Updated Venue' } }
 
         expect(response).to have_http_status(:not_found)
-        expect(JSON.parse(response.body)['error']).to eq('Match not found with ID -1')
+        expect(JSON.parse(response.body)['error']).to eq('Resource not found with ID -1')
       end
     end
   end

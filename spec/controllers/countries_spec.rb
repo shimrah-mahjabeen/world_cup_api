@@ -39,7 +39,7 @@ RSpec.describe CountriesController, type: :controller do
         json_response = JSON.parse(response.body)
 
         expect(json_response).to include(
-          'error' => 'Country not found with ID 9999'
+          'error' => 'Resource not found with ID 9999'
         )
       end
     end
