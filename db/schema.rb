@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2024_10_31_141506) do
+ActiveRecord::Schema[7.0].define(version: 2024_10_31_204246) do
   create_table "countries", force: :cascade do |t|
     t.string "team", null: false
     t.string "team_code", limit: 3, null: false
@@ -35,6 +35,7 @@ ActiveRecord::Schema[7.0].define(version: 2024_10_31_141506) do
     t.integer "home_country_id", null: false
     t.integer "away_country_id", null: false
     t.index ["away_country_id"], name: "index_matches_on_away_country_id"
+    t.index ["home_country_id", "away_country_id", "date", "round"], name: "index_unique_match", unique: true
     t.index ["home_country_id"], name: "index_matches_on_home_country_id"
     t.check_constraint "round IN ('Final', 'Semi-finals', 'Third-place match', 'Quarter-finals', 'Round of 16', 'Group stage')"
   end

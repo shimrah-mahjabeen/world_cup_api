@@ -21,4 +21,20 @@ class Match < ApplicationRecord
   # associations
   belongs_to :home_country, class_name: 'Country'
   belongs_to :away_country, class_name: 'Country'
+
+  # uniqueness validation
+  validate :unique_match_combination
+
+  private
+
+  def unique_match_combination
+    if Match.where(
+      home_country_id: home_country_id,
+      away_country_id: away_country_id,
+      date: date,
+      round: round
+    ).where.not(id: id).exists? # Exclude current record
+      errors.add(:base, "This match already exists.")
+    end
+  end
 end

@@ -41,6 +41,7 @@ gem 'bootsnap', require: false
 group :development, :test do
   gem 'byebug'
   gem 'rubocop'
+  gem 'factory_bot_rails'
 end
 
 group :development do
