@@ -68,6 +68,10 @@ RSpec.configure do |config|
 
   config.include(Shoulda::Matchers::ActiveModel, type: :model)
   config.include(Shoulda::Matchers::ActiveRecord, type: :model)
+
+  config.include FactoryBot::Syntax::Methods
+
+  DatabaseCleaner[:active_record].strategy = DatabaseCleaner::ActiveRecord::Truncation.new(only: %w[matches countries])
 end
 
 Shoulda::Matchers.configure do |config|

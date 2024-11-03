@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class MatchesController < ApplicationController
-  before_action :set_match, only: [:show, :update]
+  before_action :set_match, only: %i[show update]
 
   rescue_from ActiveRecord::RecordNotFound, with: :render_not_found
 

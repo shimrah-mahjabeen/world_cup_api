@@ -34,7 +34,7 @@ class Match < ApplicationRecord
       date: date,
       round: round
     ).where.not(id: id).exists? # Exclude current record
-      errors.add(:base, "This match already exists.")
+      errors.add(:base, 'This match already exists.')
     end
   end
 end

@@ -40,8 +40,8 @@ gem 'bootsnap', require: false
 
 group :development, :test do
   gem 'byebug'
-  gem 'rubocop'
   gem 'factory_bot_rails'
+  gem 'rubocop'
 end
 
 group :development do
@@ -50,6 +50,7 @@ group :development do
 end
 
 group :test do
+  gem 'database_cleaner-active_record'
   gem 'rspec-rails'
   gem 'shoulda-matchers'
 end
