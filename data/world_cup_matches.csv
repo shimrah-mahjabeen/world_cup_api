@@ -1,0 +1,501 @@
+home_country,away_country,home_score,home_penalty,away_score,away_penalty,attendance,venue,round,date,hosts,year
+ARG,FRA,3,4,3,2,88966,"Lusail Iconic Stadium, Lusail",Final,2022-12-18,QAT,2022
+CRO,MAR,2,,1,,44137,"Khalifa International Stadium, Doha",Third-place match,2022-12-17,QAT,2022
+FRA,MAR,2,,0,,68294,"Al Bayt Stadium, Al Khor",Semi-finals,2022-12-14,QAT,2022
+ARG,CRO,3,,0,,88966,"Lusail Iconic Stadium, Lusail",Semi-finals,2022-12-13,QAT,2022
+MAR,POR,1,,0,,44198,"Al Thumama Stadium, ath-Thumāma",Quarter-finals,2022-12-10,QAT,2022
+ENG,FRA,1,,2,,68895,"Al Bayt Stadium, Al Khor",Quarter-finals,2022-12-10,QAT,2022
+CRO,BRA,1,4,1,2,43893,"Education City Stadium, Doha",Quarter-finals,2022-12-09,QAT,2022
+NED,ARG,2,3,2,4,88235,"Lusail Iconic Stadium, Lusail",Quarter-finals,2022-12-09,QAT,2022
+MAR,ESP,0,3,0,0,44667,"Education City Stadium, Doha",Round of 16,2022-12-06,QAT,2022
+POR,SUI,6,,1,,83720,"Lusail Iconic Stadium, Lusail",Round of 16,2022-12-06,QAT,2022
+JPN,CRO,1,1,1,3,42523,"Al Janoub Stadium, Al Wakrah",Round of 16,2022-12-05,QAT,2022
+BRA,KOR,4,,1,,43847,"Stadium 974, Doha",Round of 16,2022-12-05,QAT,2022
+FRA,POL,3,,1,,40989,"Al Thumama Stadium, ath-Thumāma",Round of 16,2022-12-04,QAT,2022
+ENG,SEN,3,,0,,65985,"Al Bayt Stadium, Al Khor",Round of 16,2022-12-04,QAT,2022
+NED,USA,3,,1,,44846,"Khalifa International Stadium, Doha",Round of 16,2022-12-03,QAT,2022
+ARG,AUS,2,,1,,45032,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Round of 16,2022-12-03,QAT,2022
+KOR,POR,2,,1,,44097,"Education City Stadium, Doha",Group stage,2022-12-02,QAT,2022
+GHA,URU,0,,2,,43443,"Al Janoub Stadium, Al Wakrah",Group stage,2022-12-02,QAT,2022
+CMR,BRA,1,,0,,85986,"Lusail Iconic Stadium, Lusail",Group stage,2022-12-02,QAT,2022
+SRB,SUI,2,,3,,41378,"Stadium 974, Doha",Group stage,2022-12-02,QAT,2022
+CAN,MAR,1,,2,,43102,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-12-01,QAT,2022
+CRO,BEL,0,,0,,43984,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-12-01,QAT,2022
+CRC,GER,2,,4,,67054,"Al Bayt Stadium, Al Khor",Group stage,2022-12-01,QAT,2022
+JPN,ESP,2,,1,,44851,"Khalifa International Stadium, Doha",Group stage,2022-12-01,QAT,2022
+AUS,DEN,1,,0,,41232,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-30,QAT,2022
+TUN,FRA,1,,0,,43627,"Education City Stadium, Doha",Group stage,2022-11-30,QAT,2022
+KSA,MEX,1,,2,,84985,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-30,QAT,2022
+POL,ARG,0,,2,,44089,"Stadium 974, Doha",Group stage,2022-11-30,QAT,2022
+ECU,SEN,1,,2,,44569,"Khalifa International Stadium, Doha",Group stage,2022-11-29,QAT,2022
+NED,QAT,2,,0,,66784,"Al Bayt Stadium, Al Khor",Group stage,2022-11-29,QAT,2022
+IRN,USA,0,,1,,42127,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-29,QAT,2022
+WAL,ENG,0,,3,,44297,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-29,QAT,2022
+CMR,SRB,3,,3,,39789,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-28,QAT,2022
+KOR,GHA,2,,3,,43983,"Education City Stadium, Doha",Group stage,2022-11-28,QAT,2022
+BRA,SUI,1,,0,,43649,"Stadium 974, Doha",Group stage,2022-11-28,QAT,2022
+POR,URU,2,,0,,88668,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-28,QAT,2022
+JPN,CRC,0,,1,,41479,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-27,QAT,2022
+BEL,MAR,0,,2,,43738,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-27,QAT,2022
+CRO,CAN,4,,1,,44374,"Khalifa International Stadium, Doha",Group stage,2022-11-27,QAT,2022
+ESP,GER,1,,1,,68895,"Al Bayt Stadium, Al Khor",Group stage,2022-11-27,QAT,2022
+TUN,AUS,0,,1,,41823,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-26,QAT,2022
+POL,KSA,2,,0,,44259,"Education City Stadium, Doha",Group stage,2022-11-26,QAT,2022
+FRA,DEN,2,,1,,42860,"Stadium 974, Doha",Group stage,2022-11-26,QAT,2022
+ARG,MEX,2,,0,,88966,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-26,QAT,2022
+WAL,IRN,0,,2,,40875,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-25,QAT,2022
+QAT,SEN,1,,3,,41797,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-25,QAT,2022
+NED,ECU,1,,1,,44833,"Khalifa International Stadium, Doha",Group stage,2022-11-25,QAT,2022
+ENG,USA,0,,0,,68463,"Al Bayt Stadium, Al Khor",Group stage,2022-11-25,QAT,2022
+SUI,CMR,1,,0,,39089,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-24,QAT,2022
+URU,KOR,0,,0,,41663,"Education City Stadium, Doha",Group stage,2022-11-24,QAT,2022
+POR,GHA,3,,2,,42662,"Stadium 974, Doha",Group stage,2022-11-24,QAT,2022
+BRA,SRB,2,,0,,88103,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-24,QAT,2022
+MAR,CRO,0,,0,,59407,"Al Bayt Stadium, Al Khor",Group stage,2022-11-23,QAT,2022
+GER,JPN,1,,2,,42608,"Khalifa International Stadium, Doha",Group stage,2022-11-23,QAT,2022
+ESP,CRC,7,,0,,40013,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-23,QAT,2022
+BEL,CAN,1,,0,,40432,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-23,QAT,2022
+ARG,KSA,1,,2,,88012,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-22,QAT,2022
+DEN,TUN,0,,0,,42925,"Education City Stadium, Doha",Group stage,2022-11-22,QAT,2022
+MEX,POL,0,,0,,39369,"Stadium 974, Doha",Group stage,2022-11-22,QAT,2022
+FRA,AUS,4,,1,,40875,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-22,QAT,2022
+ENG,IRN,6,,2,,45334,"Khalifa International Stadium, Doha",Group stage,2022-11-21,QAT,2022
+SEN,NED,0,,2,,41721,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-21,QAT,2022
+USA,WAL,1,,1,,43418,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-21,QAT,2022
+QAT,ECU,0,,2,,67372,"Al Bayt Stadium, Al Khor",Group stage,2022-11-20,QAT,2022
+FRA,CRO,4,,2,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Final,2018-07-15,RUS,2018
+BEL,ENG,2,,0,,64406,"Gazprom Arena, Sankt-Petersburg",Third-place match,2018-07-14,RUS,2018
+CRO,ENG,2,,1,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Semi-finals,2018-07-11,RUS,2018
+FRA,BEL,1,,0,,64286,"Gazprom Arena, Sankt-Petersburg",Semi-finals,2018-07-10,RUS,2018
+SWE,ENG,0,,2,,39991,"Cosmos Arena, Samara",Quarter-finals,2018-07-07,RUS,2018
+RUS,CRO,2,3,2,4,44287,"Olimpiyskiy Stadion Fisht, Sochi",Quarter-finals,2018-07-07,RUS,2018
+URU,FRA,0,,2,,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Quarter-finals,2018-07-06,RUS,2018
+BRA,BEL,1,,2,,42873,"Kazan Arena, Kazan",Quarter-finals,2018-07-06,RUS,2018
+SWE,SUI,1,,0,,64042,"Gazprom Arena, Sankt-Petersburg",Round of 16,2018-07-03,RUS,2018
+COL,ENG,1,3,1,4,44190,"Otkrytie Arena, Moskva",Round of 16,2018-07-03,RUS,2018
+BRA,MEX,2,,0,,41970,"Cosmos Arena, Samara",Round of 16,2018-07-02,RUS,2018
+BEL,JPN,3,,2,,41466,"Rostov Arena, Rostov-na-Donu",Round of 16,2018-07-02,RUS,2018
+ESP,RUS,1,3,1,4,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Round of 16,2018-07-01,RUS,2018
+CRO,DEN,1,3,1,2,40851,"Stadion Nizhny Novgorod, Nizhny Novgorod",Round of 16,2018-07-01,RUS,2018
+FRA,ARG,4,,3,,42873,"Kazan Arena, Kazan",Round of 16,2018-06-30,RUS,2018
+URU,POR,2,,1,,44287,"Olimpiyskiy Stadion Fisht, Sochi",Round of 16,2018-06-30,RUS,2018
+JPN,POL,0,,1,,42189,"Volgograd Arena, Volgograd",Group stage,2018-06-28,RUS,2018
+SEN,COL,0,,1,,41970,"Cosmos Arena, Samara",Group stage,2018-06-28,RUS,2018
+ENG,BEL,0,,1,,33973,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-28,RUS,2018
+PAN,TUN,1,,2,,37168,"Mordovia Arena, Saransk",Group stage,2018-06-28,RUS,2018
+KOR,GER,2,,0,,41835,"Kazan Arena, Kazan",Group stage,2018-06-27,RUS,2018
+MEX,SWE,0,,3,,33061,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-27,RUS,2018
+SUI,CRC,2,,2,,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-27,RUS,2018
+SRB,BRA,0,,2,,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-27,RUS,2018
+AUS,PER,0,,2,,44073,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-26,RUS,2018
+DEN,FRA,0,,0,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-26,RUS,2018
+ISL,CRO,1,,2,,43472,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-26,RUS,2018
+NGA,ARG,1,,2,,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-26,RUS,2018
+KSA,EGY,2,,1,,36823,"Volgograd Arena, Volgograd",Group stage,2018-06-25,RUS,2018
+URU,RUS,3,,0,,41970,"Cosmos Arena, Samara",Group stage,2018-06-25,RUS,2018
+ESP,MAR,2,,2,,33973,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-25,RUS,2018
+IRN,POR,1,,1,,41685,"Mordovia Arena, Saransk",Group stage,2018-06-25,RUS,2018
+ENG,PAN,6,,1,,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-24,RUS,2018
+JPN,SEN,2,,2,,32572,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-24,RUS,2018
+POL,COL,0,,3,,42873,"Kazan Arena, Kazan",Group stage,2018-06-24,RUS,2018
+BEL,TUN,5,,2,,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-23,RUS,2018
+KOR,MEX,1,,2,,43472,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-23,RUS,2018
+GER,SWE,2,,1,,44287,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-23,RUS,2018
+BRA,CRC,2,,0,,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-22,RUS,2018
+NGA,ISL,2,,0,,40904,"Volgograd Arena, Volgograd",Group stage,2018-06-22,RUS,2018
+SRB,SUI,1,,2,,33167,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-22,RUS,2018
+DEN,AUS,1,,1,,40727,"Cosmos Arena, Samara",Group stage,2018-06-21,RUS,2018
+FRA,PER,1,,0,,32789,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-21,RUS,2018
+ARG,CRO,0,,3,,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-21,RUS,2018
+POR,MAR,1,,0,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-20,RUS,2018
+URU,KSA,1,,0,,42678,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-20,RUS,2018
+IRN,ESP,0,,1,,42718,"Kazan Arena, Kazan",Group stage,2018-06-20,RUS,2018
+COL,JPN,1,,2,,40842,"Mordovia Arena, Saransk",Group stage,2018-06-19,RUS,2018
+POL,SEN,1,,2,,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-19,RUS,2018
+RUS,EGY,3,,1,,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-19,RUS,2018
+SWE,KOR,1,,0,,42300,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-18,RUS,2018
+BEL,PAN,3,,0,,43257,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-18,RUS,2018
+TUN,ENG,1,,2,,41064,"Volgograd Arena, Volgograd",Group stage,2018-06-18,RUS,2018
+CRC,SRB,0,,1,,41432,"Cosmos Arena, Samara",Group stage,2018-06-17,RUS,2018
+GER,MEX,0,,1,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-17,RUS,2018
+BRA,SUI,1,,1,,43109,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-17,RUS,2018
+FRA,AUS,2,,1,,41279,"Kazan Arena, Kazan",Group stage,2018-06-16,RUS,2018
+ARG,ISL,1,,1,,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-16,RUS,2018
+PER,DEN,0,,1,,40502,"Mordovia Arena, Saransk",Group stage,2018-06-16,RUS,2018
+CRO,NGA,2,,0,,31136,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-16,RUS,2018
+EGY,URU,0,,1,,27015,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-15,RUS,2018
+MAR,IRN,0,,1,,62548,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-15,RUS,2018
+POR,ESP,3,,3,,43866,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-15,RUS,2018
+RUS,KSA,5,,0,,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-14,RUS,2018
+GER,ARG,1,,0,,74738,"Estadio Jornalista Mário Filho, Rio de Janeiro",Final,2014-07-13,BRA,2014
+BRA,NED,0,,3,,68034,"Estádio Nacional de Brasília, Brasília",Third-place match,2014-07-12,BRA,2014
+NED,ARG,0,2,0,4,63267,"Arena Corinthians, São Paulo",Semi-finals,2014-07-09,BRA,2014
+BRA,GER,1,,7,,58141,"Estádio Governador Magalhães Pinto, Belo Horizonte",Semi-finals,2014-07-08,BRA,2014
+ARG,BEL,1,,0,,68551,"Estádio Nacional de Brasília, Brasília",Quarter-finals,2014-07-05,BRA,2014
+NED,CRC,0,4,0,3,51179,"Itaipava Arena Fonte Nova, Salvador",Quarter-finals,2014-07-05,BRA,2014
+FRA,GER,0,,1,,74240,"Estadio Jornalista Mário Filho, Rio de Janeiro",Quarter-finals,2014-07-04,BRA,2014
+BRA,COL,2,,1,,60342,"Estádio Castelão, Fortaleza",Quarter-finals,2014-07-04,BRA,2014
+ARG,SUI,1,,0,,63255,"Arena Corinthians, São Paulo",Round of 16,2014-07-01,BRA,2014
+BEL,USA,2,,1,,51227,"Itaipava Arena Fonte Nova, Salvador",Round of 16,2014-07-01,BRA,2014
+FRA,NGA,2,,0,,67882,"Estádio Nacional de Brasília, Brasília",Round of 16,2014-06-30,BRA,2014
+GER,ALG,2,,1,,43063,"Estádio José Pinheiro Borba, Porto Alegre",Round of 16,2014-06-30,BRA,2014
+NED,MEX,2,,1,,58817,"Estádio Castelão, Fortaleza",Round of 16,2014-06-29,BRA,2014
+CRC,GRE,1,5,1,3,41242,"Itaipava Arena Pernambuco, Recife",Round of 16,2014-06-29,BRA,2014
+BRA,CHI,1,3,1,2,57714,"Estádio Governador Magalhães Pinto, Belo Horizonte",Round of 16,2014-06-28,BRA,2014
+COL,URU,2,,0,,73804,"Estadio Jornalista Mário Filho, Rio de Janeiro",Round of 16,2014-06-28,BRA,2014
+USA,GER,0,,1,,41876,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-26,BRA,2014
+POR,GHA,2,,1,,67540,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-26,BRA,2014
+KOR,BEL,0,,1,,61397,"Arena Corinthians, São Paulo",Group stage,2014-06-26,BRA,2014
+ALG,RUS,1,,1,,39311,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-26,BRA,2014
+BIH,IRN,3,,1,,48011,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-25,BRA,2014
+NGA,ARG,2,,3,,43285,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-25,BRA,2014
+HON,SUI,0,,3,,40322,"Arena da Amazônia, Manaus",Group stage,2014-06-25,BRA,2014
+ECU,FRA,0,,0,,73749,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-25,BRA,2014
+CRC,ENG,0,,0,,57823,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-24,BRA,2014
+ITA,URU,0,,1,,39706,"Arena das Dunas, Natal",Group stage,2014-06-24,BRA,2014
+JPN,COL,1,,4,,40340,"Arena Pantanal, Cuiabá",Group stage,2014-06-24,BRA,2014
+GRE,CIV,2,,1,,59095,"Estádio Castelão, Fortaleza",Group stage,2014-06-24,BRA,2014
+AUS,ESP,0,,3,,39375,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-23,BRA,2014
+NED,CHI,2,,0,,62996,"Arena Corinthians, São Paulo",Group stage,2014-06-23,BRA,2014
+CRO,MEX,1,,3,,41212,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-23,BRA,2014
+CMR,BRA,1,,4,,69112,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-23,BRA,2014
+BEL,RUS,1,,0,,73819,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-22,BRA,2014
+KOR,ALG,2,,4,,42732,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-22,BRA,2014
+USA,POR,2,,2,,40123,"Arena da Amazônia, Manaus",Group stage,2014-06-22,BRA,2014
+ARG,IRN,1,,0,,57698,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-21,BRA,2014
+GER,GHA,2,,2,,59621,"Estádio Castelão, Fortaleza",Group stage,2014-06-21,BRA,2014
+NGA,BIH,1,,0,,40499,"Arena Pantanal, Cuiabá",Group stage,2014-06-21,BRA,2014
+ITA,CRC,0,,1,,40285,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-20,BRA,2014
+SUI,FRA,2,,5,,51003,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-20,BRA,2014
+HON,ECU,1,,2,,39224,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-20,BRA,2014
+COL,CIV,2,,1,,68748,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-19,BRA,2014
+URU,ENG,2,,1,,62575,"Arena Corinthians, São Paulo",Group stage,2014-06-19,BRA,2014
+JPN,GRE,0,,0,,39485,"Arena das Dunas, Natal",Group stage,2014-06-19,BRA,2014
+AUS,NED,2,,3,,42877,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-18,BRA,2014
+ESP,CHI,0,,2,,74101,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-18,BRA,2014
+CMR,CRO,0,,4,,39982,"Arena da Amazônia, Manaus",Group stage,2014-06-18,BRA,2014
+BEL,ALG,2,,1,,56800,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-17,BRA,2014
+BRA,MEX,0,,0,,60342,"Estádio Castelão, Fortaleza",Group stage,2014-06-17,BRA,2014
+RUS,KOR,1,,1,,37603,"Arena Pantanal, Cuiabá",Group stage,2014-06-17,BRA,2014
+GER,POR,4,,0,,51081,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-16,BRA,2014
+IRN,NGA,0,,0,,39081,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-16,BRA,2014
+GHA,USA,1,,2,,39760,"Arena das Dunas, Natal",Group stage,2014-06-16,BRA,2014
+SUI,ECU,2,,1,,68351,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-15,BRA,2014
+FRA,HON,3,,0,,43012,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-15,BRA,2014
+ARG,BIH,2,,1,,74738,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-15,BRA,2014
+COL,GRE,3,,0,,57174,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-14,BRA,2014
+URU,CRC,1,,3,,58679,"Estádio Castelão, Fortaleza",Group stage,2014-06-14,BRA,2014
+ENG,ITA,1,,2,,39800,"Arena da Amazônia, Manaus",Group stage,2014-06-14,BRA,2014
+CIV,JPN,2,,1,,40267,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-14,BRA,2014
+MEX,CMR,1,,0,,39216,"Arena das Dunas, Natal",Group stage,2014-06-13,BRA,2014
+ESP,NED,1,,5,,48173,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-13,BRA,2014
+CHI,AUS,3,,1,,40275,"Arena Pantanal, Cuiabá",Group stage,2014-06-13,BRA,2014
+BRA,CRO,3,,1,,62103,"Arena Corinthians, São Paulo",Group stage,2014-06-12,BRA,2014
+NED,ESP,0,,1,,84490,"Soccer City, Johannesburg",Final,2010-07-11,RSA,2010
+URU,GER,2,,3,,36254,"Nelson Mandela Bay Stadium, Port Elizabeth",Third-place match,2010-07-10,RSA,2010
+GER,ESP,0,,1,,60960,"Moses Mabhida Stadium, Durban",Semi-finals,2010-07-07,RSA,2010
+URU,NED,2,,3,,62479,"Cape Town Stadium, Cape Town",Semi-finals,2010-07-06,RSA,2010
+ARG,GER,0,,4,,64100,"Cape Town Stadium, Cape Town",Quarter-finals,2010-07-03,RSA,2010
+PAR,ESP,0,,1,,55359,"Emirates Airline Park, Johannesburg",Quarter-finals,2010-07-03,RSA,2010
+NED,BRA,2,,1,,40186,"Nelson Mandela Bay Stadium, Port Elizabeth",Quarter-finals,2010-07-02,RSA,2010
+URU,GHA,1,4,1,2,84017,"Soccer City, Johannesburg",Quarter-finals,2010-07-02,RSA,2010
+PAR,JPN,0,5,0,3,36742,"Loftus Versfeld Stadium, Pretoria",Round of 16,2010-06-29,RSA,2010
+ESP,POR,1,,0,,62955,"Cape Town Stadium, Cape Town",Round of 16,2010-06-29,RSA,2010
+NED,SVK,2,,1,,61962,"Moses Mabhida Stadium, Durban",Round of 16,2010-06-28,RSA,2010
+BRA,CHI,3,,0,,54096,"Emirates Airline Park, Johannesburg",Round of 16,2010-06-28,RSA,2010
+GER,ENG,4,,1,,40510,"Toyota Stadium, Bloemfontein",Round of 16,2010-06-27,RSA,2010
+ARG,MEX,3,,1,,84377,"Soccer City, Johannesburg",Round of 16,2010-06-27,RSA,2010
+URU,KOR,2,,1,,30597,"Nelson Mandela Bay Stadium, Port Elizabeth",Round of 16,2010-06-26,RSA,2010
+USA,GHA,1,,2,,34976,"Royal Bafokeng Stadium, Phokeng",Round of 16,2010-06-26,RSA,2010
+POR,BRA,0,,0,,62712,"Moses Mabhida Stadium, Durban",Group stage,2010-06-25,RSA,2010
+PRK,CIV,0,,3,,34763,"Mbombela Stadium, Nelspruit",Group stage,2010-06-25,RSA,2010
+CHI,ESP,1,,2,,41958,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-25,RSA,2010
+SUI,HON,0,,0,,28042,"Toyota Stadium, Bloemfontein",Group stage,2010-06-25,RSA,2010
+PAR,NZL,0,,0,,34850,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-24,RSA,2010
+SVK,ITA,3,,2,,53412,"Emirates Airline Park, Johannesburg",Group stage,2010-06-24,RSA,2010
+DEN,JPN,1,,3,,27967,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-24,RSA,2010
+CMR,NED,1,,2,,63093,"Cape Town Stadium, Cape Town",Group stage,2010-06-24,RSA,2010
+SVN,ENG,0,,1,,36893,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-23,RSA,2010
+USA,ALG,1,,0,,35827,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-23,RSA,2010
+GHA,GER,0,,1,,83391,"Soccer City, Johannesburg",Group stage,2010-06-23,RSA,2010
+AUS,SRB,2,,1,,37836,"Mbombela Stadium, Nelspruit",Group stage,2010-06-23,RSA,2010
+MEX,URU,0,,1,,33425,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-22,RSA,2010
+FRA,RSA,1,,2,,39415,"Toyota Stadium, Bloemfontein",Group stage,2010-06-22,RSA,2010
+NGA,KOR,2,,2,,61874,"Moses Mabhida Stadium, Durban",Group stage,2010-06-22,RSA,2010
+GRE,ARG,0,,2,,38891,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-22,RSA,2010
+POR,PRK,7,,0,,63644,"Cape Town Stadium, Cape Town",Group stage,2010-06-21,RSA,2010
+CHI,SUI,1,,0,,34872,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-21,RSA,2010
+ESP,HON,2,,0,,54386,"Emirates Airline Park, Johannesburg",Group stage,2010-06-21,RSA,2010
+SVK,PAR,0,,2,,26643,"Toyota Stadium, Bloemfontein",Group stage,2010-06-20,RSA,2010
+ITA,NZL,1,,1,,38229,"Mbombela Stadium, Nelspruit",Group stage,2010-06-20,RSA,2010
+BRA,CIV,3,,1,,84455,"Soccer City, Johannesburg",Group stage,2010-06-20,RSA,2010
+NED,JPN,1,,0,,62010,"Moses Mabhida Stadium, Durban",Group stage,2010-06-19,RSA,2010
+GHA,AUS,1,,1,,34812,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-19,RSA,2010
+CMR,DEN,1,,2,,38074,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-19,RSA,2010
+GER,SRB,0,,1,,38294,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-18,RSA,2010
+SVN,USA,2,,2,,45573,"Emirates Airline Park, Johannesburg",Group stage,2010-06-18,RSA,2010
+ENG,ALG,0,,0,,64100,"Cape Town Stadium, Cape Town",Group stage,2010-06-18,RSA,2010
+ARG,KOR,4,,1,,82174,"Soccer City, Johannesburg",Group stage,2010-06-17,RSA,2010
+GRE,NGA,2,,1,,31593,"Toyota Stadium, Bloemfontein",Group stage,2010-06-17,RSA,2010
+FRA,MEX,0,,2,,35370,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-17,RSA,2010
+HON,CHI,0,,1,,32664,"Mbombela Stadium, Nelspruit",Group stage,2010-06-16,RSA,2010
+ESP,SUI,0,,1,,62453,"Moses Mabhida Stadium, Durban",Group stage,2010-06-16,RSA,2010
+RSA,URU,0,,3,,42658,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-16,RSA,2010
+NZL,SVK,1,,1,,23871,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-15,RSA,2010
+CIV,POR,0,,0,,37034,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-15,RSA,2010
+BRA,PRK,2,,1,,54331,"Emirates Airline Park, Johannesburg",Group stage,2010-06-15,RSA,2010
+NED,DEN,2,,0,,83465,"Soccer City, Johannesburg",Group stage,2010-06-14,RSA,2010
+JPN,CMR,1,,0,,30620,"Toyota Stadium, Bloemfontein",Group stage,2010-06-14,RSA,2010
+ITA,PAR,1,,1,,62869,"Cape Town Stadium, Cape Town",Group stage,2010-06-14,RSA,2010
+ALG,SVN,0,,1,,30325,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-13,RSA,2010
+SRB,GHA,0,,1,,38833,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-13,RSA,2010
+GER,AUS,4,,0,,62660,"Moses Mabhida Stadium, Durban",Group stage,2010-06-13,RSA,2010
+KOR,GRE,2,,0,,31513,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-12,RSA,2010
+ARG,NGA,1,,0,,55686,"Emirates Airline Park, Johannesburg",Group stage,2010-06-12,RSA,2010
+ENG,USA,1,,1,,38646,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-12,RSA,2010
+RSA,MEX,1,,1,,84490,"Soccer City, Johannesburg",Group stage,2010-06-11,RSA,2010
+URU,FRA,0,,0,,64100,"Cape Town Stadium, Cape Town",Group stage,2010-06-11,RSA,2010
+ITA,FRA,1,5,1,3,69000,"Olympiastadion Berlin, Berlin",Final,2006-07-09,GER,2006
+GER,POR,3,,1,,52000,"Mercedes-Benz Arena, Stuttgart",Third-place match,2006-07-08,GER,2006
+POR,FRA,0,,1,,66000,"Allianz Arena, München",Semi-finals,2006-07-05,GER,2006
+GER,ITA,0,,2,,65000,"Signal Iduna Park, Dortmund",Semi-finals,2006-07-04,GER,2006
+ENG,POR,0,1,0,3,52000,"Veltins-Arena, Gelsenkirchen",Quarter-finals,2006-07-01,GER,2006
+BRA,FRA,0,,1,,48000,"Commerzbank-Arena, Frankfurt am Main",Quarter-finals,2006-07-01,GER,2006
+GER,ARG,1,4,1,2,72000,"Olympiastadion Berlin, Berlin",Quarter-finals,2006-06-30,GER,2006
+ITA,UKR,3,,0,,50000,"Volksparkstadion, Hamburg",Quarter-finals,2006-06-30,GER,2006
+BRA,GHA,3,,0,,65000,"Signal Iduna Park, Dortmund",Round of 16,2006-06-27,GER,2006
+ESP,FRA,1,,3,,43000,"HDI-Arena, Hannover",Round of 16,2006-06-27,GER,2006
+ITA,AUS,1,,0,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Round of 16,2006-06-26,GER,2006
+SUI,UKR,0,0,0,3,45000,"RheinEnergieSTADION, Köln",Round of 16,2006-06-26,GER,2006
+ENG,ECU,1,,0,,52000,"Mercedes-Benz Arena, Stuttgart",Round of 16,2006-06-25,GER,2006
+POR,NED,1,,0,,41000,"Max-Morlock-Stadion, Nürnberg",Round of 16,2006-06-25,GER,2006
+GER,SWE,2,,0,,66000,"Allianz Arena, München",Round of 16,2006-06-24,GER,2006
+ARG,MEX,2,,1,,43000,"Red Bull Arena, Leipzig",Round of 16,2006-06-24,GER,2006
+KSA,ESP,0,,1,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-23,GER,2006
+UKR,TUN,1,,0,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-23,GER,2006
+TOG,FRA,0,,2,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-23,GER,2006
+SUI,KOR,2,,0,,43000,"HDI-Arena, Hannover",Group stage,2006-06-23,GER,2006
+GHA,USA,2,,1,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-22,GER,2006
+CZE,ITA,0,,2,,50000,"Volksparkstadion, Hamburg",Group stage,2006-06-22,GER,2006
+JPN,BRA,1,,4,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-22,GER,2006
+CRO,AUS,2,,2,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-22,GER,2006
+POR,MEX,2,,1,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-21,GER,2006
+IRN,ANG,1,,1,,38000,"Red Bull Arena, Leipzig",Group stage,2006-06-21,GER,2006
+CIV,SRB,3,,2,,66000,"Allianz Arena, München",Group stage,2006-06-21,GER,2006
+NED,ARG,0,,0,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-21,GER,2006
+CRC,POL,1,,2,,43000,"HDI-Arena, Hannover",Group stage,2006-06-20,GER,2006
+ECU,GER,0,,3,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-20,GER,2006
+PAR,TRI,2,,0,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-20,GER,2006
+SWE,ENG,2,,2,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-20,GER,2006
+TOG,SUI,0,,2,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-19,GER,2006
+KSA,UKR,0,,4,,50000,"Volksparkstadion, Hamburg",Group stage,2006-06-19,GER,2006
+ESP,TUN,3,,1,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-19,GER,2006
+JPN,CRO,0,,0,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-18,GER,2006
+BRA,AUS,2,,0,,66000,"Allianz Arena, München",Group stage,2006-06-18,GER,2006
+FRA,KOR,1,,1,,43000,"Red Bull Arena, Leipzig",Group stage,2006-06-18,GER,2006
+POR,IRN,2,,0,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-17,GER,2006
+CZE,GHA,0,,2,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-17,GER,2006
+ITA,USA,1,,1,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-17,GER,2006
+ARG,SRB,6,,0,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-16,GER,2006
+NED,CIV,2,,1,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-16,GER,2006
+MEX,ANG,0,,0,,43000,"HDI-Arena, Hannover",Group stage,2006-06-16,GER,2006
+ECU,CRC,3,,0,,50000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-15,GER,2006
+ENG,TRI,2,,0,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-15,GER,2006
+SWE,PAR,1,,0,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-15,GER,2006
+ESP,UKR,4,,0,,43000,"Red Bull Arena, Leipzig",Group stage,2006-06-14,GER,2006
+TUN,KSA,2,,2,,66000,"Allianz Arena, München",Group stage,2006-06-14,GER,2006
+GER,POL,1,,0,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-14,GER,2006
+KOR,TOG,2,,1,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-13,GER,2006
+FRA,SUI,0,,0,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-13,GER,2006
+BRA,CRO,1,,0,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-13,GER,2006
+AUS,JPN,3,,1,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-12,GER,2006
+USA,CZE,0,,3,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-12,GER,2006
+ITA,GHA,2,,0,,43000,"HDI-Arena, Hannover",Group stage,2006-06-12,GER,2006
+SRB,NED,0,,1,,37216,"Red Bull Arena, Leipzig",Group stage,2006-06-11,GER,2006
+MEX,IRN,3,,1,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-11,GER,2006
+ANG,POR,0,,1,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-11,GER,2006
+ENG,PAR,1,,0,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-10,GER,2006
+TRI,SWE,0,,0,,62959,"Signal Iduna Park, Dortmund",Group stage,2006-06-10,GER,2006
+ARG,CIV,2,,1,,49480,"Volksparkstadion, Hamburg",Group stage,2006-06-10,GER,2006
+GER,CRC,4,,2,,64950,"Allianz Arena, München",Group stage,2006-06-09,GER,2006
+POL,ECU,0,,2,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-09,GER,2006
+GER,BRA,0,,2,,69029,"Nissan Stadium, Yokohama",Final,2002-06-30,"JPN, KOR",2002
+KOR,TUR,2,,3,,63483,"Daegu Main Stadium, Daegu",Third-place match,2002-06-29,"JPN, KOR",2002
+BRA,TUR,1,,0,,61058,"Saitama Stadium 2002, Saitama",Semi-finals,2002-06-26,"JPN, KOR",2002
+GER,KOR,1,,0,,65625,"Seoul World Cup Stadium, Seoul",Semi-finals,2002-06-25,"JPN, KOR",2002
+ESP,KOR,0,3,0,5,42114,"Guus Hiddink Stadium, Gwangju",Quarter-finals,2002-06-22,"JPN, KOR",2002
+SEN,TUR,0,,1,,44233,"Yanmar Stadium Nagai, Osaka",Quarter-finals,2002-06-22,"JPN, KOR",2002
+ENG,BRA,1,,2,,47436,"Daejeon World Cup Stadium, Daejeon",Quarter-finals,2002-06-21,"JPN, KOR",2002
+GER,USA,1,,0,,37337,"Munsu Cup Stadium, Ulsan",Quarter-finals,2002-06-21,"JPN, KOR",2002
+JPN,TUR,0,,1,,45666,"Miyagi Stadium, Rifu",Round of 16,2002-06-18,"JPN, KOR",2002
+KOR,ITA,2,,1,,38588,"Daejeon World Cup Stadium, Daejeon",Round of 16,2002-06-18,"JPN, KOR",2002
+MEX,USA,0,,2,,36380,"Jeonju World Cup Stadium, Jeonju",Round of 16,2002-06-17,"JPN, KOR",2002
+BRA,BEL,2,,0,,40440,"NOEVIR Stadium Kobe, Kobe",Round of 16,2002-06-17,"JPN, KOR",2002
+SWE,SEN,1,,2,,39747,"Ōita Bank Dome, Ōita",Round of 16,2002-06-16,"JPN, KOR",2002
+ESP,IRL,1,3,1,2,38926,"Suwon World Cup Stadium, Suwon",Round of 16,2002-06-16,"JPN, KOR",2002
+GER,PAR,1,,0,,25176,"Jeju World Cup Stadium, Jeju",Round of 16,2002-06-15,"JPN, KOR",2002
+DEN,ENG,0,,3,,40582,"Denka Big Swan Stadium, Niigata",Round of 16,2002-06-15,"JPN, KOR",2002
+TUN,JPN,0,,2,,45213,"Yanmar Stadium Nagai, Osaka",Group stage,2002-06-14,"JPN, KOR",2002
+BEL,RUS,3,,2,,46640,"Shizuoka Stadium Ecopa, Fukuroi",Group stage,2002-06-14,"JPN, KOR",2002
+POR,KOR,0,,1,,50239,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-14,"JPN, KOR",2002
+POL,USA,3,,1,,26482,"Daejeon World Cup Stadium, Daejeon",Group stage,2002-06-14,"JPN, KOR",2002
+CRC,BRA,2,,5,,38524,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-13,"JPN, KOR",2002
+TUR,CHN,3,,0,,43605,"Seoul World Cup Stadium, Seoul",Group stage,2002-06-13,"JPN, KOR",2002
+MEX,ITA,1,,1,,39291,"Ōita Bank Dome, Ōita",Group stage,2002-06-13,"JPN, KOR",2002
+ECU,CRO,1,,0,,65862,"Nissan Stadium, Yokohama",Group stage,2002-06-13,"JPN, KOR",2002
+SWE,ARG,1,,1,,45777,"Miyagi Stadium, Rifu",Group stage,2002-06-12,"JPN, KOR",2002
+NGA,ENG,0,,0,,44864,"Yanmar Stadium Nagai, Osaka",Group stage,2002-06-12,"JPN, KOR",2002
+RSA,ESP,2,,3,,31024,"Daejeon World Cup Stadium, Daejeon",Group stage,2002-06-12,"JPN, KOR",2002
+SVN,PAR,1,,3,,30176,"Jeju World Cup Stadium, Jeju",Group stage,2002-06-12,"JPN, KOR",2002
+DEN,FRA,2,,0,,48100,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-11,"JPN, KOR",2002
+SEN,URU,3,,3,,33681,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-11,"JPN, KOR",2002
+KSA,IRL,0,,3,,65320,"Nissan Stadium, Yokohama",Group stage,2002-06-11,"JPN, KOR",2002
+CMR,GER,0,,2,,47085,"Shizuoka Stadium Ecopa, Fukuroi",Group stage,2002-06-11,"JPN, KOR",2002
+KOR,USA,1,,1,,60778,"Daegu Main Stadium, Daegu",Group stage,2002-06-10,"JPN, KOR",2002
+TUN,BEL,1,,1,,39700,"Ōita Bank Dome, Ōita",Group stage,2002-06-10,"JPN, KOR",2002
+POR,POL,4,,0,,31000,"Jeonju World Cup Stadium, Jeonju",Group stage,2002-06-10,"JPN, KOR",2002
+MEX,ECU,2,,1,,45610,"Sapporo Dome, Sapporo",Group stage,2002-06-09,"JPN, KOR",2002
+CRC,TUR,1,,1,,42299,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-09,"JPN, KOR",2002
+JPN,RUS,1,,0,,66108,"Nissan Stadium, Yokohama",Group stage,2002-06-09,"JPN, KOR",2002
+RSA,SVN,1,,0,,47226,"Daegu Main Stadium, Daegu",Group stage,2002-06-08,"JPN, KOR",2002
+ITA,CRO,1,,2,,36472,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-08,"JPN, KOR",2002
+BRA,CHN,4,,0,,36750,"Jeju World Cup Stadium, Jeju",Group stage,2002-06-08,"JPN, KOR",2002
+SWE,NGA,2,,1,,36194,"NOEVIR Stadium Kobe, Kobe",Group stage,2002-06-07,"JPN, KOR",2002
+ESP,PAR,3,,1,,24000,"Jeonju World Cup Stadium, Jeonju",Group stage,2002-06-07,"JPN, KOR",2002
+ARG,ENG,0,,1,,35927,"Sapporo Dome, Sapporo",Group stage,2002-06-07,"JPN, KOR",2002
+DEN,SEN,1,,1,,43500,"Daegu Main Stadium, Daegu",Group stage,2002-06-06,"JPN, KOR",2002
+CMR,KSA,1,,0,,52328,"Saitama Stadium 2002, Saitama",Group stage,2002-06-06,"JPN, KOR",2002
+FRA,URU,0,,0,,38070,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-06,"JPN, KOR",2002
+RUS,TUN,2,,0,,30957,"NOEVIR Stadium Kobe, Kobe",Group stage,2002-06-05,"JPN, KOR",2002
+USA,POR,3,,2,,37306,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-05,"JPN, KOR",2002
+GER,IRL,1,,1,,35854,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-05,"JPN, KOR",2002
+CHN,CRC,0,,2,,27217,"Guus Hiddink Stadium, Gwangju",Group stage,2002-06-04,"JPN, KOR",2002
+JPN,BEL,2,,2,,55256,"Saitama Stadium 2002, Saitama",Group stage,2002-06-04,"JPN, KOR",2002
+KOR,POL,2,,0,,48760,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-04,"JPN, KOR",2002
+CRO,MEX,0,,1,,32239,"Denka Big Swan Stadium, Niigata",Group stage,2002-06-03,"JPN, KOR",2002
+BRA,TUR,2,,1,,33842,"Munsu Cup Stadium, Ulsan",Group stage,2002-06-03,"JPN, KOR",2002
+ITA,ECU,2,,0,,31081,"Sapporo Dome, Sapporo",Group stage,2002-06-03,"JPN, KOR",2002
+ARG,NGA,1,,0,,34050,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-02,"JPN, KOR",2002
+PAR,RSA,2,,2,,25186,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-02,"JPN, KOR",2002
+ENG,SWE,1,,1,,52721,"Saitama Stadium 2002, Saitama",Group stage,2002-06-02,"JPN, KOR",2002
+ESP,SVN,3,,1,,28588,"Guus Hiddink Stadium, Gwangju",Group stage,2002-06-02,"JPN, KOR",2002
+IRL,CMR,1,,1,,33679,"Denka Big Swan Stadium, Niigata",Group stage,2002-06-01,"JPN, KOR",2002
+URU,DEN,1,,2,,30157,"Munsu Cup Stadium, Ulsan",Group stage,2002-06-01,"JPN, KOR",2002
+GER,KSA,8,,0,,32218,"Sapporo Dome, Sapporo",Group stage,2002-06-01,"JPN, KOR",2002
+FRA,SEN,0,,1,,62561,"Seoul World Cup Stadium, Seoul",Group stage,2002-05-31,"JPN, KOR",2002
+BRA,FRA,0,,3,,80000,"Stade de France, Paris",Final,1998-07-12,FRA,1998
+NED,CRO,1,,2,,44000,"Parc des Princes, Paris",Third-place match,1998-07-11,FRA,1998
+FRA,CRO,2,,1,,80000,"Stade de France, Paris",Semi-finals,1998-07-08,FRA,1998
+BRA,NED,1,4,1,2,60000,"Orange Vélodrome, Marseille",Semi-finals,1998-07-07,FRA,1998
+NED,ARG,2,,1,,60000,"Orange Vélodrome, Marseille",Quarter-finals,1998-07-04,FRA,1998
+GER,CRO,0,,3,,43300,"Matmut Stadium de Gerland, Lyon",Quarter-finals,1998-07-04,FRA,1998
+ITA,FRA,0,3,0,4,80000,"Stade de France, Paris",Quarter-finals,1998-07-03,FRA,1998
+BRA,DEN,3,,2,,49500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Quarter-finals,1998-07-03,FRA,1998
+ROU,CRO,0,,1,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Round of 16,1998-06-30,FRA,1998
+ARG,ENG,2,4,2,3,30600,"Stade Geoffroy-Guichard, Saint-Étienne",Round of 16,1998-06-30,FRA,1998
+GER,MEX,2,,1,,29800,"Stade de la Mosson, Montpellier",Round of 16,1998-06-29,FRA,1998
+NED,YUG,2,,1,,33000,"Stadium Municipal, Toulouse",Round of 16,1998-06-29,FRA,1998
+FRA,PAR,1,,0,,31800,"Stade Bollaert-Delelis, Lens",Round of 16,1998-06-28,FRA,1998
+NGA,DEN,1,,4,,77000,"Stade de France, Paris",Round of 16,1998-06-28,FRA,1998
+ITA,NOR,1,,0,,55000,"Orange Vélodrome, Marseille",Round of 16,1998-06-27,FRA,1998
+BRA,CHI,4,,1,,45500,"Parc des Princes, Paris",Round of 16,1998-06-27,FRA,1998
+ARG,CRO,1,,0,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-26,FRA,1998
+JPN,JAM,1,,2,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-26,FRA,1998
+ROU,TUN,1,,1,,80000,"Stade de France, Paris",Group stage,1998-06-26,FRA,1998
+COL,ENG,0,,2,,42000,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-26,FRA,1998
+NED,MEX,2,,2,,30600,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-25,FRA,1998
+BEL,KOR,1,,1,,45500,"Parc des Princes, Paris",Group stage,1998-06-25,FRA,1998
+USA,YUG,0,,1,,38500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-25,FRA,1998
+GER,IRN,2,,0,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-25,FRA,1998
+RSA,KSA,2,,2,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-24,FRA,1998
+FRA,DEN,2,,1,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-24,FRA,1998
+ESP,BUL,6,,1,,41275,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-24,FRA,1998
+NGA,PAR,1,,3,,33400,"Stadium Municipal, Toulouse",Group stage,1998-06-24,FRA,1998
+ITA,AUT,2,,1,,80000,"Stade de France, Paris",Group stage,1998-06-23,FRA,1998
+CHI,CMR,1,,1,,39500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-23,FRA,1998
+BRA,NOR,1,,2,,57000,"Orange Vélodrome, Marseille",Group stage,1998-06-23,FRA,1998
+SCO,MAR,0,,3,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-23,FRA,1998
+COL,TUN,1,,0,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-22,FRA,1998
+ROU,ENG,2,,1,,33140,"Stadium Municipal, Toulouse",Group stage,1998-06-22,FRA,1998
+GER,YUG,2,,2,,41275,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-21,FRA,1998
+ARG,JAM,5,,0,,45500,"Parc des Princes, Paris",Group stage,1998-06-21,FRA,1998
+USA,IRN,1,,2,,43300,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-21,FRA,1998
+JPN,CRO,0,,1,,35500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-20,FRA,1998
+BEL,MEX,2,,2,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-20,FRA,1998
+NED,KOR,5,,0,,55000,"Orange Vélodrome, Marseille",Group stage,1998-06-20,FRA,1998
+NGA,BUL,1,,0,,48000,"Parc des Princes, Paris",Group stage,1998-06-19,FRA,1998
+ESP,PAR,0,,0,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-19,FRA,1998
+RSA,DEN,1,,1,,33500,"Stadium Municipal, Toulouse",Group stage,1998-06-18,FRA,1998
+FRA,KSA,4,,0,,80000,"Stade de France, Paris",Group stage,1998-06-18,FRA,1998
+CHI,AUT,1,,1,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-17,FRA,1998
+ITA,CMR,3,,0,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-17,FRA,1998
+SCO,NOR,1,,1,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-16,FRA,1998
+BRA,MAR,3,,0,,38500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-16,FRA,1998
+ENG,TUN,2,,0,,54587,"Orange Vélodrome, Marseille",Group stage,1998-06-15,FRA,1998
+ROU,COL,1,,0,,43300,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-15,FRA,1998
+GER,USA,2,,0,,49000,"Parc des Princes, Paris",Group stage,1998-06-15,FRA,1998
+ARG,JPN,1,,0,,33500,"Stadium Municipal, Toulouse",Group stage,1998-06-14,FRA,1998
+YUG,IRN,1,,0,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-14,FRA,1998
+JAM,CRO,1,,3,,38100,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-14,FRA,1998
+ESP,NGA,2,,3,,38000,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-13,FRA,1998
+KOR,MEX,1,,3,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-13,FRA,1998
+NED,BEL,0,,0,,77000,"Stade de France, Paris",Group stage,1998-06-13,FRA,1998
+PAR,BUL,0,,0,,27650,"Stade de la Mosson, Montpellier",Group stage,1998-06-12,FRA,1998
+KSA,DEN,0,,1,,38100,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-12,FRA,1998
+FRA,RSA,3,,0,,55000,"Orange Vélodrome, Marseille",Group stage,1998-06-12,FRA,1998
+ITA,CHI,2,,2,,35200,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-11,FRA,1998
+CMR,AUT,1,,1,,36500,"Stadium Municipal, Toulouse",Group stage,1998-06-11,FRA,1998
+BRA,SCO,2,,1,,80000,"Stade de France, Paris",Group stage,1998-06-10,FRA,1998
+MAR,NOR,2,,2,,29750,"Stade de la Mosson, Montpellier",Group stage,1998-06-10,FRA,1998
+BRA,ITA,0,3,0,2,94194,"Rose Bowl, Los Angeles",Final,1994-07-17,USA,1994
+SWE,BUL,4,,0,,91500,"Rose Bowl, Los Angeles",Third-place match,1994-07-16,USA,1994
+BUL,ITA,1,,2,,74110,"Giants Stadium, New York/New Jersey",Semi-finals,1994-07-13,USA,1994
+SWE,BRA,0,,1,,91856,"Rose Bowl, Los Angeles",Semi-finals,1994-07-13,USA,1994
+BUL,GER,2,,1,,72000,"Giants Stadium, New York/New Jersey",Quarter-finals,1994-07-10,USA,1994
+ROU,SWE,2,4,2,5,83500,"Stanford Stadium, San Francisco",Quarter-finals,1994-07-10,USA,1994
+ITA,ESP,2,,1,,53400,"Foxboro Stadium, Boston",Quarter-finals,1994-07-09,USA,1994
+NED,BRA,2,,3,,63500,"Cotton Bowl, Dallas",Quarter-finals,1994-07-09,USA,1994
+NGA,ITA,1,,2,,54367,"Foxboro Stadium, Boston",Round of 16,1994-07-05,USA,1994
+MEX,BUL,1,1,1,3,71030,"Giants Stadium, New York/New Jersey",Round of 16,1994-07-05,USA,1994
+NED,IRL,2,,0,,61355,"Citrus Bowl, Orlando",Round of 16,1994-07-04,USA,1994
+BRA,USA,1,,0,,84147,"Stanford Stadium, San Francisco",Round of 16,1994-07-04,USA,1994
+KSA,SWE,1,,3,,60277,"Cotton Bowl, Dallas",Round of 16,1994-07-03,USA,1994
+ROU,ARG,3,,2,,90469,"Rose Bowl, Los Angeles",Round of 16,1994-07-03,USA,1994
+GER,BEL,3,,2,,60246,"Soldier Field, Chicago",Round of 16,1994-07-02,USA,1994
+ESP,SUI,3,,0,,53121,"RFK Stadium, Washington Dc",Round of 16,1994-07-02,USA,1994
+GRE,NGA,0,,2,,53001,"Foxboro Stadium, Boston",Group stage,1994-06-30,USA,1994
+ARG,BUL,0,,2,,63998,"Cotton Bowl, Dallas",Group stage,1994-06-30,USA,1994
+MAR,NED,1,,2,,60578,"Citrus Bowl, Orlando",Group stage,1994-06-29,USA,1994
+BEL,KSA,0,,1,,52959,"RFK Stadium, Washington Dc",Group stage,1994-06-29,USA,1994
+ITA,MEX,1,,1,,52535,"RFK Stadium, Washington Dc",Group stage,1994-06-28,USA,1994
+IRL,NOR,0,,0,,72404,"Giants Stadium, New York/New Jersey",Group stage,1994-06-28,USA,1994
+RUS,CMR,6,,1,,74914,"Stanford Stadium, San Francisco",Group stage,1994-06-28,USA,1994
+BRA,SWE,1,,1,,77217,"Pontiac Silverdome, Detroit",Group stage,1994-06-28,USA,1994
+GER,KOR,3,,2,,63998,"Cotton Bowl, Dallas",Group stage,1994-06-27,USA,1994
+BOL,ESP,1,,3,,63089,"Soldier Field, Chicago",Group stage,1994-06-27,USA,1994
+BUL,GRE,4,,0,,63160,"Soldier Field, Chicago",Group stage,1994-06-26,USA,1994
+USA,ROU,0,,1,,93869,"Rose Bowl, Los Angeles",Group stage,1994-06-26,USA,1994
+SUI,COL,0,,2,,83401,"Stanford Stadium, San Francisco",Group stage,1994-06-26,USA,1994
+BEL,NED,1,,0,,62387,"Citrus Bowl, Orlando",Group stage,1994-06-25,USA,1994
+KSA,MAR,2,,1,,76322,"Giants Stadium, New York/New Jersey",Group stage,1994-06-25,USA,1994
+ARG,NGA,2,,1,,54453,"Foxboro Stadium, Boston",Group stage,1994-06-25,USA,1994
+MEX,IRL,2,,1,,60790,"Citrus Bowl, Orlando",Group stage,1994-06-24,USA,1994
+BRA,CMR,3,,0,,83401,"Stanford Stadium, San Francisco",Group stage,1994-06-24,USA,1994
+SWE,RUS,3,,1,,71528,"Pontiac Silverdome, Detroit",Group stage,1994-06-24,USA,1994
+ITA,NOR,1,,0,,74624,"Giants Stadium, New York/New Jersey",Group stage,1994-06-23,USA,1994
+KOR,BOL,0,,0,,54453,"Foxboro Stadium, Boston",Group stage,1994-06-23,USA,1994
+ROU,SUI,1,,4,,61428,"Pontiac Silverdome, Detroit",Group stage,1994-06-22,USA,1994
+USA,COL,2,,1,,93869,"Rose Bowl, Los Angeles",Group stage,1994-06-22,USA,1994
+ARG,GRE,4,,0,,54456,"Foxboro Stadium, Boston",Group stage,1994-06-21,USA,1994
+GER,ESP,1,,1,,63113,"Soldier Field, Chicago",Group stage,1994-06-21,USA,1994
+NGA,BUL,3,,0,,44132,"Cotton Bowl, Dallas",Group stage,1994-06-21,USA,1994
+BRA,RUS,2,,0,,81061,"Stanford Stadium, San Francisco",Group stage,1994-06-20,USA,1994
+NED,KSA,2,,1,,50535,"RFK Stadium, Washington Dc",Group stage,1994-06-20,USA,1994
+BEL,MAR,1,,0,,61219,"Citrus Bowl, Orlando",Group stage,1994-06-19,USA,1994
+NOR,MEX,1,,0,,52395,"RFK Stadium, Washington Dc",Group stage,1994-06-19,USA,1994
+CMR,SWE,2,,2,,93194,"Rose Bowl, Los Angeles",Group stage,1994-06-19,USA,1994
+USA,SUI,1,,1,,73425,"Pontiac Silverdome, Detroit",Group stage,1994-06-18,USA,1994
+ITA,IRL,0,,1,,75338,"Giants Stadium, New York/New Jersey",Group stage,1994-06-18,USA,1994
+COL,ROU,1,,3,,91856,"Rose Bowl, Los Angeles",Group stage,1994-06-18,USA,1994
+GER,BOL,1,,0,,63117,"Soldier Field, Chicago",Group stage,1994-06-17,USA,1994
+ESP,KOR,2,,2,,56247,"Cotton Bowl, Dallas",Group stage,1994-06-17,USA,1994
