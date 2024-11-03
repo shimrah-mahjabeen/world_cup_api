@@ -1,11 +1,10 @@
 # frozen_string_literal: true
 
-# spec/models/match_spec.rb
 require 'rails_helper'
 
 RSpec.describe Match, type: :model do
-  let(:country1) { Country.create!(team: 'Argentina', team_code: 'ARG', associated_with: 'UNICEF') }
-  let(:country2) { Country.create!(team: 'France', team_code: 'FRA', associated_with: 'UNICEF') }
+  let(:country1) { Country.create!(team: 'Argentina', team_code: 'ARG', associated_with: 'AFA') }
+  let(:country2) { Country.create!(team: 'France', team_code: 'FRA', associated_with: 'AFA') }
 
   subject do
     described_class.new(

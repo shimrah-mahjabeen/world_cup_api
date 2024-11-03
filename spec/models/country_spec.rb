@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# spec/models/country_spec.rb
 require 'rails_helper'
 
 RSpec.describe Country, type: :model do

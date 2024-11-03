@@ -4,6 +4,6 @@ FactoryBot.define do
   factory :country do
     team { 'Some Country' }
     team_code { 'ABC' }
-    associated_with { 'UNICEF' }
+    associated_with { 'AFA' }
   end
 end
